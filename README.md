@@ -10,3 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
     1. You can email me at ravionaldoraffel@gmail.com
     2. Or send me a DM on my Linkedin: https://www.linkedin.com/in/raffel-ravionaldo/
+ 
+Visit my other portfolio at : 
+1. medium : https://medium.com/@ravionaldoraffel
+2. hugging face : https://huggingface.co/raffel-22
