@@ -2,14 +2,12 @@
 
 My name is Raffel Ravionaldo
 
-Here are some ideas to get you started:
-
 - 🏢 I’m currently working on Broox Technologies SLU as a Computer vision engineer.
 - 📖 I’m currently learning about AI, especially generative AI and LLM.
 - 🔨 Trying to build something interesting with a hugging face model, like using Llama, Text-to-speech, speech-to-text, etc
 - 💬 You can ask me about AI or any repos on this GitHub, my article on medium, or what I push on hugging face.
 - 📫 How to reach me:
-    1. You can email me at ravionaldoraffel@gmail.com
+    1. You can send me a email me at ravionaldoraffel@gmail.com
     2. Or send me a DM on my Linkedin: https://www.linkedin.com/in/raffel-ravionaldo/
  
 Visit my other portfolio at : 
